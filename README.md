@@ -1663,7 +1663,7 @@ body {
 }
 ```
 
-#### Folder Setup
+#### BACKEND
 
 - IMPORTANT !!!!
 - remove existing .git folder (if any) from client
